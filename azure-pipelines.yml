@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: local
+pool: Vmss
 
 steps:
 - script: echo Hello, world!
